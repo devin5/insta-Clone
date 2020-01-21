@@ -1,4 +1,3 @@
-// You do not need to change any code in this file
 
 import React from "react";
 import "./Posts.css";
